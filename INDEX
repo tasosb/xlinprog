@@ -1,0 +1,17 @@
+xlinprog >> Optimization commands for Octave GLPK
+Optimization
+ linprog
+ intlinprog
+Options user utilities
+ optimoptions
+Options classes
+ LinprogC
+ IntlinprogC
+Output conversion
+ convertres
+Datafile
+ xlindata
+Tests
+ test_linprog
+ test_intlinprog
+ 

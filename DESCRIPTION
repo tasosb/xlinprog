@@ -1,0 +1,9 @@
+Name: xlinprog
+Version: 0.1.0
+Date: 2020-15-01
+Author: Anastasios Bithas <anastasiostam@gmail.com>
+Maintainer: Anastasios Bithas <anastasiostam@gmail.com>
+Title: Optimization commands for Octave GLPK
+Description: Simple package that translates the linprog, intlinprog and optimoptions commands from MATLAB so that they can be procesed by GLPK.
+Depends: octave (>= 4.0.0)
+License: GPLv3
