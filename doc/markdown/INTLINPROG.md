@@ -1,5 +1,5 @@
 # xlinprog
-[Home](../../README.md) | [linprog help page](/LINPROG.md)
+[Home](/README.md) | [linprog help page](LINPROG.md)
 
 ## intlinprog function
 
